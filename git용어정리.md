@@ -22,4 +22,4 @@
  - 충돌 없이 병합 가능 = fast-forward
  
  # github 에서 우선적으로 변경한 
- # test  
+ 
