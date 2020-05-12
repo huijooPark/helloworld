@@ -1,0 +1,30 @@
+2020.05.11
+git_ github 공부시작
+
+----------------- 용어 정리 ------------------------------
+#clone : 원격 저장소를 내 컴퓨터에 복사하는 것.
+#add : 내 컴퓨터에서 작업한 파일들을 스테이지에 추가
+#commit : 스테이지에 올라온 파일들을 가지고 내 컴퓨터에 저장
+#push : 커밋들을 원격 저장소에 업로드
+---------------------------------------------------------
+
+sourceTree 를 이용해서 UI 로 git&github 학습
+
+clone으로 github 주소 복사해서 새로운 workspace 생성
+연결된 위치에 git directory 생성됨
+이 하위 폴더에 대해 수정이 발생하면 형상관리 가능
+
+파일이 변경된 것을 commit 하기 위해 stage에 commit할 파일을 선택하여 올리고
+커밋 내용을 상세하게 작성
+작성이 완료되면 commit함.
+
+이 과정을 거치면 git에 commit 된 상태가 됨.
+
+그 상태에서 sourceTree를 보면 Push버튼에 push할 것이 생성됨.
+이를 통해 github에 git에 commit한 내용 upload 시킴
+
+
+*과정* 
+
+파일 수정 -> git stage에 올림(add) -> commit -> push ( git -> github )
+가장 기본적인 commit 작업 절차..
