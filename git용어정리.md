@@ -16,4 +16,8 @@
   - 하나의 브랜치를 현재의 브랜치와 합치는 것을 병합이라고 한다.
     ex ) HEAD 브랜치가 master 인경우 version2를 병합하면 version2의 내용이 master에 반영되는 구조
 
-    
+ #  병합하기 typeq_1
+ - HEAD branch에 변경 사항이 없음.
+ - 병합 대상 브랜치가 헤드로부터 시작된 경우
+ - 충돌 없이 병합 가능 = fast-forward
+ 
