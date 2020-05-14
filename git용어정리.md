@@ -22,6 +22,5 @@
  - 충돌 없이 병합 가능 = fast-forward
  
  # 브랜치 추가 테스트
-  dkjlfdkdf
-
+  
  
